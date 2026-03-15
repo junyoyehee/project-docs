@@ -4,6 +4,7 @@
 
 ```
 D:\aiworks\githubs\
+├── project-docs/      # 프로젝트 관리 문서 (이 저장소)
 ├── pole/              # 메인 프로젝트 (개발팀 인트라넷 플랫폼)
 ├── pole-template/     # 스타터 템플릿 (pole 기반 구조 재사용)
 └── jack/              # 신규 프로젝트 (pole-template 기반)
@@ -35,6 +36,11 @@ pole (원본)
 - **용도**: pole-template 기반으로 생성된 새 프로젝트
 - **상태**: 초기 구성 완료
 - **GitHub**: github.com/junyoyehee/jack
+
+### project-docs (관리)
+- **용도**: 프로젝트 관리 문서 저장소
+- **포함 항목**: project-manager.md (이 파일)
+- **GitHub**: github.com/junyoyehee/project-docs
 
 ## 공통 기술 스택
 
